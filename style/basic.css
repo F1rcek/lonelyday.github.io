@@ -323,6 +323,7 @@ body {
   .sblock {
     width: 168px;
     margin-top: 8px;
+    height: 200px;
   }
   .mblock {
     width: 344px;
